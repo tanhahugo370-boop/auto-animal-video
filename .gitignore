@@ -1,0 +1,5 @@
+output/
+*.mp3
+*.png
+__pycache__/
+.DS_Store
